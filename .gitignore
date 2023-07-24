@@ -1,7 +1,5 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
-.env
-.netlify
+node_modules/
+dist/
+
+docs/.vitepress/dist
+yarn.lock

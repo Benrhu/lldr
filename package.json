@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs --output public",
     "docs:serve": "vitepress serve docs",
     "vercel-build": "vitepress build docs"
   },

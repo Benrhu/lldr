@@ -37,7 +37,6 @@ module.exports = {
       // because the default sidebar is created via page headings
     },
   },
-  head: [["link", { rel: "stylesheet", href: "./theme.css" }]],
   locales: {
     "/en/": {
       lang: "en-US",

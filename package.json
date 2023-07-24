@@ -9,7 +9,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "vercel-build": "vitepress build docs"
   },
   "devDependencies": {
     "vitepress": "^0.20.1"

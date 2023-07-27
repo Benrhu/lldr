@@ -1,5 +1,17 @@
-node_modules/
-dist/
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
 
-docs/.vitepress/dist
-yarn.lock
+assets/.DS_Store
+
+assets/img/.DS_Store
+
+assets/img/projects/.DS_Store
+
+**/**.DS_Store
+**/.DS_Store

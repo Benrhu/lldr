@@ -17,7 +17,6 @@ export default {
 <template>
   <div class="flex flex-col items-center justify-center" style="height: 100vh">
     <Init />
-    >
     <NuxtLink
       class="m-3 bg-white hover:bg-blue-400 text-blue-600 font-bold py-2 px-4 border border-b-4 border-blue-700 hover:border-blue-500 rounded"
       to="/jobs/"
